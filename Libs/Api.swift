@@ -14,11 +14,8 @@ import Alamofire
 class Api {
     
     // Proeprties
-    
-    
-    
-    let clientId      = "WMJLTKQY5KSSCCTHCOCTJVGC0NBWOB3GEKBRWL5J4THUQSN1"
-    let clientSecret = "SJSES52NPVONE0NXQV3CN1DGTEMTQ0ORDHTI1MFKB5IT0WDZ"
+    let clientId      = "XXXX"
+    let clientSecret = "XXX"
     
     init() {
         
